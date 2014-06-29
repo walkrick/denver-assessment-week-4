@@ -7,3 +7,7 @@ Follow the tests.
 Remember, follow the stack trace to find the code you need to fix!
 
 Also, don't forget you can use the `skip` method to work on one test at a time.
+
+## If you finish early
+
+Can you find any duplicated logic in your code? Can you remove it?
